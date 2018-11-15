@@ -3,204 +3,30 @@
 <head>
   <title>Layout</title>
   <meta charset="utf-8">
+  <script type="text/markdown" id='main-content'>{{README.md}}</script>
+  <script type="module">
+const index = {{index.json}}
+const snarkdown = (()=>{ {{snarkdown.js}};return r})()
+
+{{script.js}}</script>
+  <style>{{style.css}}</style>
 </head>
-<style>
-/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
-html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}
-
-/* latin-ext */
-@font-face {
-  font-family: 'Halant';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Halant Regular'), local('Halant-Regular'), url(https://fonts.gstatic.com/s/halant/v5/u-4-0qaujRI2Pbsn1thnoy0.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Halant';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Halant Regular'), local('Halant-Regular'), url(https://fonts.gstatic.com/s/halant/v5/u-4-0qaujRI2Pbsn2Nhn.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Vollkorn SC';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Vollkorn SC Bold'), local('VollkornSC-Bold'), url(https://fonts.gstatic.com/s/vollkornsc/v1/j8_y6-zQ3rXpceZj9cqnVinFG2uja7L95Q.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Vollkorn SC';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Vollkorn SC Bold'), local('VollkornSC-Bold'), url(https://fonts.gstatic.com/s/vollkornsc/v1/j8_y6-zQ3rXpceZj9cqnVinFG2uta7I.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
-html, body, button, p {
-  font-family: 'Halant';
-  color: #292318;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Vollkorn SC';
-  color: #c31515;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-a {
-  text-decoration: none;
-  color: #c31515;
-}
-
-header {
-  height: 180px;
-  background-color: #dad6cd;
-}
-
-#content {
-  display: flex;
-  flex: 1;
-  background-color: #f6f0eb;
-}
-
-article {
-  max-width: 720px;
-}
-
-nav, aside {
-  flex: 1;
-  min-width: 180px;
-}
-
-nav {
-  text-align: end;
-  padding: 0 24px 0 0;
-}
-
-nav ul {
-  list-style: none;
-}
-
-nav ul .category {
-  font-family: 'Vollkorn SC';
-  padding-top: 12px;
-  display: block;
-  letter-spacing: 0.5px;
-}
-
-nav ul li {
-  padding-top: 3px;
-  padding-left: 0;
-}
-
-nav > ul > li {
-}
-
-nav > ul li ul > li {
-  padding-right: 12px;
-}
-
-aside {
-  padding: 0 0 0 24px;
-}
-
-aside time {
-  padding-top: 90px;
-  display: block;
-}
-
-aside time .year {
-  font-size: 60px;
-  color: #9b9484;
-}
-
-aside time .year b {
-  color: black;
-  font-weight: normal;
-}
-
-aside time .date {
-  font-size: 30px;
-}
-
-footer {
-  height: 180px;
-  background-color: #242320;
-  color: #dad6cd;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-footer small {
-  color: #8f8375;
-}
-
-@media (max-width: 768px) {
-  body {
-    background-color: red;
-  }
-}
-
-@media (max-width: 481px) {
-  header {
-    height: 90px;
-  }
-  
-}
-
-
-</style>
 <body>
 <header>
 </header>
 <div id="content">
-<nav role="navigation">
-  <ul>
-    <li>
-      <span class="category">categorie 1</span>
-      <ul>
-        <li><a href="">lien 1</a></li>
-        <li><a href="">lien 2</a></li>
-      </ul>
-    </li>
-    <li>
-      <span class="category">categorie 2</span>
-      <ul>
-        <li><a href="">lien 1</a></li>
-        <li><a href="">lien 2</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-<article>
-  <h1>Categorie</h1>
-  <h2>Article title</h2>
-  <p>
-  Mon atelier est situé à Angers où depuis 1988 je me consacre à la fabrication des instruments du quatuor. Ma conception de la lutherie est initialement marquée par une formations scientifique et musicale puis par une longue recherche historique sur l’origine de ma profession.</p>
-  <img src="https://lutherie.github.io/page0/files/stacks_image_8_1.png">
-  <p>Ce travail a trouvé un premier aboutissement en 2006 par la publication du « Traité de lutherie » L'ouvrage désormais disponible que dans sa version anglaise est devenu la référence en son domaine pour la profession.</p>
-</article>
-<aside>
-  <time>
-    <div class="year">20<b>15</b></div>
-    <div class="date">05/08</div>
-  </time>
-  <address class="author">Francois Denis</address>
-  <div class="category">Category</div>
-  <div class="title">Titre de la page</div>
-</aside>
+  <nav role="navigation"><ul id="nav"></ul></nav>
+  <article id="article">
+  </article>
+  <aside id="meta">
+    <time>
+      <div class="year">20<b>15</b></div>
+      <div class="date">05/08</div>
+    </time>
+    <address class="author">Francois Denis</address>
+    <div class="category">Category</div>
+    <div class="title">Titre de la page</div>
+  </aside>
 </div>
 <footer>
   <address>
