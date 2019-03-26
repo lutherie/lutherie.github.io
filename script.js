@@ -59,7 +59,7 @@ const generateMenu = pages => {
   console.log(pages)
   document.getElementById('nav').innerHTML = pages
     .sort((a, b) => a.index - b.index)
-    .map(({ title, search }) => `<li><a href="./${search}">${title}</a></li>`)
+    .map(({ title, search }) => `<li><a href="${location.pathname}${search}">${title}</a></li>`)
     .join('\n')
 }
 
