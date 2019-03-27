@@ -7,7 +7,7 @@ puis par une longue recherche historique sur l’origine de ma profession.
 
 
 
-Ce travail a trouvé un premier aboutissement en 2006 par la publication du [« Traité de lutherie »](https://traitedelutherie.com)
+Ce travail a trouvé un premier aboutissement en 2006 par la publication du [« Traité de lutherie »](https://traitedelutherie.com).
 L'ouvrage désormais disponible que dans sa version anglaise est devenu la référence en son domaine pour la profession.
 
 
