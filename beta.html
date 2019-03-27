@@ -96,16 +96,12 @@ header {
 }
 
 article {
-  max-width: 720px;
-}
-
-nav,
-aside {
   flex: 1;
-  min-width: 180px;
+  max-width: 600px;
 }
 
 nav {
+  min-width: 180px;
   text-align: end;
   padding: 0 24px 0 0;
 }
@@ -126,34 +122,8 @@ nav ul li {
   padding-left: 0;
 }
 
-nav > ul > li {
-}
-
 nav > ul li ul > li {
   padding-right: 12px;
-}
-
-aside {
-  padding: 0 0 0 24px;
-}
-
-aside time {
-  padding-top: 90px;
-  display: block;
-}
-
-aside time .year {
-  font-size: 60px;
-  color: #9b9484;
-}
-
-aside time .year b {
-  color: black;
-  font-weight: normal;
-}
-
-aside time .date {
-  font-size: 30px;
 }
 
 footer {
@@ -190,15 +160,6 @@ footer small {
   <nav role="navigation"><ul id="nav"></ul></nav>
   <article id="article">
   </article>
-  <aside id="meta">
-    <time>
-      <div class="year">20<b>15</b></div>
-      <div class="date">05/08</div>
-    </time>
-    <address class="author">Francois Denis</address>
-    <div class="category">Category</div>
-    <div class="title">Titre de la page</div>
-  </aside>
 </div>
 <footer>
   <address>

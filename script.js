@@ -59,9 +59,21 @@ const generateMenu = pages => {
   console.log(pages)
   document.getElementById('nav').innerHTML = pages
     .sort((a, b) => a.index - b.index)
-    .map(({ title, search }) => `<li><a href="${location.pathname}${search}">${title}</a></li>`)
+    .map(p =>
+      `<li><a data-page=${p.name} href="${location.pathname}${p.search}">${p.title}</a></li>`
+    )
     .join('\n')
+
 }
+
+window.addEventListener('click', e => {
+  if (e.target.dataset.page) {
+    e.preventDefault()
+    console.log('load page', e.target.dataset.page)
+  }
+
+  // history.pushState('')
+})
 
 const loadContent = async ([cachedPages = {}, locale = 'fr']) => {
   // init pages from cache
@@ -101,7 +113,6 @@ const loadContent = async ([cachedPages = {}, locale = 'fr']) => {
   return Promise.all(work)
 }
 
-const start = Date.now()
 Promise.all([get('pages'), get('locale')])
   .then(loadContent)
   .then(console.log)
