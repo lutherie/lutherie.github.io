@@ -27,6 +27,7 @@ const set = (key, value) =>
     : call('readwrite', 'put', value, key)
 
 const getContent = async name => {
+  if (!name) return console.error(Error('requested an empty page'))
   const path = `/pages/${encodeURIComponent(name)}`
   const res = await fetch(path)
   const text = await res.text()
@@ -76,7 +77,7 @@ const loadPage = name => {
   get(page.sha)
     .then(async actualContent => {
       displayPage(actualContent)
-      const content = await getContent(page.name)
+      const content = await getContent(name)
       if (actualContent !== content) {
         // show refresh ??
         // update sha
