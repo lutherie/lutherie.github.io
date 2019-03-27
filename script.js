@@ -1,3 +1,5 @@
+let CACHED_PAGES = {}
+
 const dbp = new Promise((resolve, reject) => {
   const openreq = window.indexedDB.open('page-cache', 1)
   openreq.onerror = () => reject(openreq.error)
@@ -60,19 +62,26 @@ const generateMenu = pages => {
   document.getElementById('nav').innerHTML = pages
     .sort((a, b) => a.index - b.index)
     .map(p =>
-      `<li><a data-page=${p.name} href="${location.pathname}${p.search}">${p.title}</a></li>`
+      `<li><a data-page=${encodeURIComponent(p.name)} href="${location.pathname}${p.search}">${p.title}</a></li>`
     )
     .join('\n')
 
 }
 
-window.addEventListener('click', e => {
+window.addEventListener('click', async e => {
   if (e.target.dataset.page) {
+    const page = CACHED_PAGES[decodeURIComponent(e.target.dataset.page)]
+    if (!page) return
     e.preventDefault()
-    console.log('load page', e.target.dataset.page)
+    history.pushState(null, page.name, page.search)
+    const actualContent = await get(page.sha)
+    displayPage(await get(page.sha))
+    const content = await getContent(page.name)
+    if (actualContent !== content) {
+      // show refresh ??
+      displayPage(content)
+    }
   }
-
-  // history.pushState('')
 })
 
 const loadContent = async ([cachedPages = {}, locale = 'fr']) => {
@@ -80,6 +89,7 @@ const loadContent = async ([cachedPages = {}, locale = 'fr']) => {
   const { searchParams } = new URL(window.location)
   const selectedPage = searchParams.get('page')
 
+  CACHED_PAGES = cachedPages
   generateMenu(Object.values(cachedPages))
   if (selectedPage) {
     const page = cachedPages[selectedPage]
@@ -109,6 +119,8 @@ const loadContent = async ([cachedPages = {}, locale = 'fr']) => {
   }
 
   generateMenu(pages)
+
+  CACHED_PAGES = cache
 
   return Promise.all(work)
 }
