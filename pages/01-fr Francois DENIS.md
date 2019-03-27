@@ -11,4 +11,4 @@ Ce travail a trouvé un premier aboutissement en 2006 par la publication du [« 
 L'ouvrage désormais disponible que dans sa version anglaise est devenu la référence en son domaine pour la profession.
 
 
-email: infolutherie@gmail.com
+email: [infolutherie@gmail.com](mailto:infolutherie@gmail.com)
