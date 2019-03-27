@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Layout</title>
+  <title>Francois Denis</title>
   <meta charset="utf-8">
   <script type="module" src="./script.js">
   </script>
@@ -95,6 +95,20 @@ a {
 header {
   height: 180px;
   background-color: #dad6cd;
+  overflow: hidden;
+}
+
+header, h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#lastname {
+  color: #242320;
+  font-size: 180px;
+  line-height: 90px;
 }
 
 #content {
@@ -133,11 +147,11 @@ article {
 nav {
   min-width: 180px;
   text-align: end;
-  padding: 0 24px 0 0;
 }
 
 nav ul {
   list-style: none;
+  padding: 0 24px;
 }
 
 nav ul .category {
@@ -150,10 +164,6 @@ nav ul .category {
 nav ul li {
   padding-top: 3px;
   padding-left: 0;
-}
-
-nav > ul li ul > li {
-  padding-right: 12px;
 }
 
 footer {
@@ -171,12 +181,41 @@ footer small {
 }
 
 @media (max-width: 768px) {
-  body {
-    background-color: red;
+  header, footer {
+    height: 120px;
+  }
+  #firstname {
+    font-size: 28px;
+  }
+  #lastname {
+    font-size: 120px;
+    line-height: 60px;
+  }
+  #article {
+    padding: 0 9px;
+  }
+  nav {
+    min-width: 0;
+  }
+  nav ul {
+    padding: 0 9px;
   }
 }
 
 @media (max-width: 481px) {
+  #firstname {
+    font-size: 24px;
+  }
+  #lastname {
+    font-size: 90px;
+    line-height: 50px;
+  }
+  #content {
+    flex-direction: column;
+  }
+  nav ul {
+    padding: 0 24px;
+  }
   header {
     height: 90px;
   }
@@ -185,6 +224,10 @@ footer small {
 </head>
 <body>
 <header>
+  <h1>
+    <span id="firstname">François</span>
+    <span id="lastname">Denis</span>
+  </h1>
 </header>
 <div id="content">
   <nav role="navigation"><ul id="nav"></ul></nav>
@@ -198,5 +241,6 @@ footer small {
   </address>
   <p><small>© copyright 2018 Aladfi edition.</small></p>
 </footer>
+<div id="reaveal"></div>
 </body>
 </html>

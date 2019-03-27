@@ -55,7 +55,8 @@ const displayPage = innerHTML => {
   document.getElementById('article').innerHTML = innerHTML
   for (const img of document.getElementsByTagName('img')) {
     try {
-      img.classList.add(img.src.split('#')[1])
+      const className = img.src.split('#')[1]
+      className && img.classList.add(className)
     } catch (err) {
       console.error(err)
     }
