@@ -129,7 +129,8 @@ const loadContent = async ([cachedPages = {}, locale = 'fr']) => {
   }
 
   const res = await queryPages
-  const pages = (await res.json())
+  res.ok || console.error(Error('Github request failed'))
+  const pages = (res.ok ? (await res.json()) : [])
     .filter(p => p.type === 'file' && p.name.endsWith('.md'))
     .map(({ sha, name }) => ({ ...parseName(name), sha }))
 
