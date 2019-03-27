@@ -1,4 +1,5 @@
 let CACHED_PAGES = {}
+let CURRENT_PAGE_NAME = ''
 
 const dbp = new Promise((resolve, reject) => {
   const openreq = window.indexedDB.open('page-cache', 1)
@@ -58,35 +59,57 @@ const queryPages = fetch(
 )
 
 const generateMenu = pages => {
-  console.log(pages)
   document.getElementById('nav').innerHTML = pages
     .sort((a, b) => a.index - b.index)
-    .map(p =>
-      `<li><a data-page=${encodeURIComponent(p.name)} href="${location.pathname}${p.search}">${p.title}</a></li>`
+    .map(
+      p =>
+        `<li><a data-page=${encodeURIComponent(p.name)} href="${
+          location.pathname
+        }${p.search}">${p.title}</a></li>`,
     )
     .join('\n')
+}
 
+const loadPage = name => {
+  const page = CACHED_PAGES[name]
+  if (!page) return page
+  get(page.sha)
+    .then(async actualContent => {
+      displayPage(actualContent)
+      const content = await getContent(page.name)
+      if (actualContent !== content) {
+        // show refresh ??
+        // update sha
+        // update cache
+        displayPage(content)
+      }
+    })
+    .catch(console.error)
+
+  return page
 }
 
 window.addEventListener('click', async e => {
-  if (e.target.dataset.page) {
-    const page = CACHED_PAGES[decodeURIComponent(e.target.dataset.page)]
-    if (!page) return
+  if (!e.target.dataset.page) return
+  const clickedName = decodeURIComponent(e.target.dataset.page)
+  const currentName = new URL(location).searchParams.get('page')
+  if (clickedName === currentName) {
     e.preventDefault()
-    history.pushState(null, page.name, page.search)
-    const actualContent = await get(page.sha)
-    displayPage(await get(page.sha))
-    const content = await getContent(page.name)
-    if (actualContent !== content) {
-      // show refresh ??
-      displayPage(content)
-    }
+    return
   }
+  const page = loadPage(clickedName)
+  if (!page) return
+  e.preventDefault()
+  history.pushState(null, page.name, page.search)
+})
+
+window.addEventListener('popstate', async e => {
+  loadPage(new URL(location).searchParams.get('page'))
 })
 
 const loadContent = async ([cachedPages = {}, locale = 'fr']) => {
   // init pages from cache
-  const { searchParams } = new URL(window.location)
+  const { searchParams } = new URL(location)
   const selectedPage = searchParams.get('page')
 
   CACHED_PAGES = cachedPages
