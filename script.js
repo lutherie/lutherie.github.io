@@ -99,6 +99,7 @@ const loadPage = name => {
 }
 
 window.addEventListener('click', async e => {
+  if (e.button || e.buttons) return
   if (!e.target.dataset.page) return
   const clickedName = decodeURIComponent(e.target.dataset.page)
   const currentName = new URL(location).searchParams.get('page')
