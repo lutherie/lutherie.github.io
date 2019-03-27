@@ -53,6 +53,13 @@ const parseName = src => {
 const displayPage = innerHTML => {
   if (!innerHTML) return
   document.getElementById('article').innerHTML = innerHTML
+  for (const img of document.getElementsByTagName('img')) {
+    try {
+      img.classList.add(img.src.split('#')[1])
+    } catch (err) {
+      console.error(err)
+    }
+  }
 }
 
 const queryPages = fetch(
