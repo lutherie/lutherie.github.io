@@ -8,7 +8,7 @@ puis par une longue recherche historique sur l’origine de ma profession.
 
 
 Ce travail a trouvé un premier aboutissement en 2006 par la publication du [« Traité de lutherie »](https://traitedelutherie.com).
-L'ouvrage désormais disponible que dans sa version anglaise est devenu la référence en son domaine pour la profession.
+Devenu une référence en son domaine, l'ouvrage a été ré-édité en 2017.
 
 
 email: [infolutherie@gmail.com](mailto:infolutherie@gmail.com)
