@@ -20,4 +20,4 @@ Programme à déterminer / Programme to be determined
 
 En collaboration avec la Faculté d'architecture La Cambre Horta / ULB
 
-[https://www.ekho-violins.com/]
+https://www.ekho-violins.com/
