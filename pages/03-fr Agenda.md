@@ -1,24 +1,16 @@
+## Agenda
 
-## AGENDA
 - 9/05 / 19:00
 
-CONFERENCE / LECTURE - CONCERT
+### Conference
 
-​
+> De Palladio à Stradivari. Proportions en architecture et en lutherie  
+> *François DENIS*
 
- François DENIS, "De Palladio à Stradivari. Proportions en architecture et en lutherie" /
+### Concert
+Suivi d’un concert du violoncelliste *Emmanuel Tondus*
 
-"From Palladio to Stradivari. Proportionality in architecture and violin making"
+Programme à déterminer
 
-​
-
-Suivi d’un concert de / Followed by a concert by Emmanuel Tondus, violoncelliste 
-
-Emmanuel Tondus, cellist
-
-Programme à déterminer / Programme to be determined
-
-En collaboration avec la Faculté d'architecture La Cambre Horta / ULB
-
-[https://www.ekho-violins.com/]
-
+En collaboration avec la Faculté d'architecture La Cambre Horta / ULB  
+https://www.ekho-violins.com/
