@@ -38,6 +38,7 @@ html{box-sizing:border-box}*,::after,::before{box-sizing:inherit}:root{-moz-tab-
 
 /* latin-ext */
 @font-face {
+  font-display: swap;
   font-family: 'Lato';
   font-style: normal;
   font-weight: 300;
@@ -46,6 +47,7 @@ html{box-sizing:border-box}*,::after,::before{box-sizing:inherit}:root{-moz-tab-
 }
 /* latin */
 @font-face {
+  font-display: swap;
   font-family: 'Lato';
   font-style: normal;
   font-weight: 300;
@@ -230,6 +232,26 @@ footer small {
   }
 }
 
+button.locale {
+  background: transparent;
+  font-size: 19px;
+  color: #c31515;
+  border: 2px solid transparent;
+}
+
+button.locale:focus {
+  border: none;
+  background: transparent;
+  font-size: 19px;
+  border: 2px solid #c31515;
+  outline: none;
+}
+
+button[disabled] {
+  color: #646159;
+  border-bottom: 2px solid #646159;
+}
+
 body > * {
   opacity: 0;
   transition: opacity 0.5s ease-out;
@@ -245,7 +267,7 @@ body.reveal > * {
     body > * { opacity: 1!important }
   </style>
   This website use javascript, you can consult the content here
-  <a href="//github.com/lutherie/lutherie.github.io/pages">github.com/lutherie</a>
+  <a href="//lutherie.github.io/pages">github.com/lutherie</a>
 </noscript>
 </head>
 <body>
@@ -253,8 +275,21 @@ body.reveal > * {
   <h1>François DENIS</h1>
 </header>
 <div id="content">
-  <nav role="navigation"><ul id="nav"></ul></nav>
+  <nav role="navigation">
+    <div style="margin-top: -27px">
+      <button class="locale" id="fr">Français</button>
+      <button class="locale" id="en">English</button>
+    </div>
+    <ul id="nav"></ul>
+  </nav>
   <article id="article">
+    If the website takes doesn't load properly, you can access the
+    <a href="/pages">alternative version</a>
+
+    <hr>
+
+    Si le site ne charge pas, vous pouvez consulter la
+    <a href="/pages">version alternative</a>
   </article>
 </div>
 <footer>
