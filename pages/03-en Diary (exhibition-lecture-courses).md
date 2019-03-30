@@ -13,5 +13,6 @@ Followed by a concert by *Emmanuel Tondus*, cellist.
 
 Programme to be determined
 
-En collaboration avec la Faculté d'architecture La Cambre Horta / ULB
+In collaboration with the Faculté d'architecture *La Cambre Horta / ULB*
+
 https://www.ekho-violins.com/
