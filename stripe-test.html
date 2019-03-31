@@ -1,47 +1,84 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
+<title></title>
+<style type="text/css">
+  label { display: block }
+</style>
 </head>
 <body>
 
+
+<div>
+  <h3>Pay with card</h3>
+  <button id="checkout-button-230" role="link">Traiter de Lutherie + PDF (230€)</button>
+  <button id="checkout-button-215" role="link">Traiter de Lutherie (215€)</button>
+  <div id="error-message"></div>
+</div>
+
+<div>
+  <h3>Pay with paypal</h3>
+  <a href="https://www.paypal.me/traitedelutherie/230">Traiter de Lutherie + PDF (230€)</a>
+  <a href="https://www.paypal.me/traitedelutherie/215">Traiter de Lutherie (215€)</a>
+</div>
+
+<div>
+  <h3>Bank Transfert</h3>
+<pre>
+IBAN FR76 3000 00243 00010358056 71
+BIC BNPAFRPPXXX
+
+BNP PARIS AS BREST
+</pre>
+</div>
+
+
+<div>
+  <h3>Bank Check (payable to ALADFI)</h3>
+Postal address:
+
+<pre>
+Mme elodie EGRET - Aladfi ed.
+8 Rue Boussingault
+Elodie Egret
+29200 Brest
+FRANCE 
+</pre>
+</div>
+
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
-
-<!-- Create a button that your customers click to complete their purchase. -->
-<button id="checkout-button" role="link">Pay</button>
-<div id="error-message"></div>
-
 <script>
-  var stripe = Stripe('pk_live_nDnMEpVdsNCRVfAi6gVPU2rk00B57X8hyQ', {
-    betas: ['checkout_beta_4']
-  });
+var stripe = Stripe('pk_live_nDnMEpVdsNCRVfAi6gVPU2rk00B57X8hyQ', {
+  betas: ['checkout_beta_4']
+})
 
-  var checkoutButton = document.getElementById('checkout-button');
-  checkoutButton.addEventListener('click', function () {
-    // When the customer clicks on the button, redirect
-    // them to Checkout.
+function setStripe(id, items) {
+  document.getElementById(id).addEventListener('click', function () {
     stripe.redirectToCheckout({
-      items: [
-        {sku: 'sku_EnciNWzNmYYbh8', quantity: 1},
-        {sku: 'sku_EnclvkJ8hiu8Iz', quantity: 1},
-      ],
-
-      // Note that it is not guaranteed your customers will be redirected to this
-      // URL *100%* of the time, it's possible that they could e.g. close the
-      // tab between form submission and the redirect.
+      items: items,
       successUrl: 'https://traitedelutherie.com/success',
       cancelUrl: 'https://traitedelutherie.com/canceled',
     })
     .then(function (result) {
       if (result.error) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer.
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
+        var displayError = document.getElementById('error-message')
+        displayError.textContent = result.error.message
       }
-    });
-  });
+    })
+  })
+}
+
+setStripe('checkout-button-230', [
+  {sku: 'sku_EnciNWzNmYYbh8', quantity: 1},
+  {sku: 'sku_EnclvkJ8hiu8Iz', quantity: 1},
+])
+
+setStripe('checkout-button-215', [
+  {sku: 'sku_EnciNWzNmYYbh8', quantity: 1},
+  //{sku: 'sku_EnclvkJ8hiu8Iz', quantity: 1},
+])
+
 </script>
 </body>
 </html>
