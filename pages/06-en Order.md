@@ -3,16 +3,16 @@
 ### Pay with card
 <ul>
   <li>
-    <button id="checkout-button-230" role="link">Traiter de Lutherie + PDF (230€)</button>
+    <button id="checkout-button-230" role="link">Traité de Lutherie + PDF (230€)</button>
   </li>
   <li>
-    <button id="checkout-button-215" role="link">Traiter de Lutherie (215€)</button>
+    <button id="checkout-button-215" role="link">Traité de Lutherie (215€)</button>
   </li>
 </ul>
 
 ### Pay with paypal
-  - [Traiter de Lutherie + PDF (230€)](https://www.paypal.me/traitedelutherie/230)
-  - [Traiter de Lutherie (215€)](https://www.paypal.me/traitedelutherie/215)
+  - [Traité de Lutherie + PDF (230€)](https://www.paypal.me/traitedelutherie/230)
+  - [Traité de Lutherie (215€)](https://www.paypal.me/traitedelutherie/215)
 
 ### Bank Transfert
 
