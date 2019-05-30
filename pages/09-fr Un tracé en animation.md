@@ -1,5 +1,3 @@
-
-
 Une forme d'instrument nait d'une surface divisée proportionnellement appellée "ordonnance". 
 
 Les segments de l'ordonnance sont liés par des relations proportionnelles simples.
