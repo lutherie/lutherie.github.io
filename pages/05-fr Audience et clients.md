@@ -13,4 +13,4 @@ Appréciés pour leur personnalité, leur sonorité est par ailleurs régulière
 -2012 diplôme de sonorité attribué par Philippe Hersant et Florian Vallez
 au concourt d'alto à Paris
 
--2014 certificat accordé par le concours Viola's 2014
+-2014 certificat accordé au concours Viola's 2014
