@@ -7,3 +7,9 @@ Appreciated for their personality, their sound is also often distinguished in in
 -2009 : Prices given in Paris by the President of the Jury for a viola
 
 -2010 : Silver medal for sound in the Violin Society of America competition in Cleveland.
+
+-2006: Certificat de mérite pour la sonorité au concours de la Violin Society of America de Baltimore
+
+-2012 diplôma for sound awarded by Philippe Hersant and Florian Vallez at viola's Paris contest
+
+-2014 diploma for making awarded at Viola's Paris contest
