@@ -1,4 +1,4 @@
-My instruments are played in many orchestras in France (Opera and Orchestra of Paris) and abroad (Germany, Spain, Sweden, United Kingdom,Portugal).
+My instruments are played in many orchestras in France (Opera and Orchestra of Paris) and abroad (Germany, Spain, Sweden, United Kingdom, Portugal).
 Appreciated for their personality, their sound is also often distinguished in international competitions.
 
 
