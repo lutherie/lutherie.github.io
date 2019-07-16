@@ -5,7 +5,7 @@ Autres articles et publications
 
 -[Two Forms](http://infoluthier.free.fr/francois%20denis/resources/TwoForms_Denis.pdf)(3D project)
 
--Divine Proportions (The Strad)
+-[Divine Proportions](https://github.com/lutherie/lutherie.github.io/blob/master/resources/DivineProportionsStrad.pdf) (The Strad)
 -The geometric principles of string instrument making in Brescia (in "1520-1724 Liutai in Brescia ")
 -Golden Arches (The Strad)
 -Luthiers - de la main à la main éd. Actes Sud 2012
