@@ -3,7 +3,7 @@
 Autres articles et publications
 
 
--[Two Forms](https://lutherie.github.io/resources/DivineProportionsStrad.pdf)(3D project)
+-[Two Forms](https://lutherie.github.io/resources/TwoForms_Denis.pdf)(3D project)
 
 -[Divine Proportions](https://lutherie.github.io/resources/DivineProportionsStrad.pdf) (The Strad)
 -The geometric principles of string instrument making in Brescia (in "1520-1724 Liutai in Brescia ")
