@@ -17,6 +17,7 @@ Articles en collaboration
 
 
 -[Symmetry of genius](https://lutherie.github.io/resources/Symmetry-of-genius.pdf) (Patrick Robin, The Strad Avril 2003 )
+
 -[Reconstitution d'un violoncelle d'Andrea Amati](https://lutherie.github.io/resources/ReconstitutionRolandHouel.pdf) (Roland Houel non publié)
 
 Other articles and publications
