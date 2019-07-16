@@ -1,3 +1,4 @@
+![atelier](https://lutherie.github.io/page10/files/stacks_image_23_1.png)
 
 Le Traité de Lutherie
 édition aladfi 2006
