@@ -10,10 +10,8 @@ Cet ouvrage original a rencontré un succès international.
 
 
 
-Pour commander une copie télécharger le Bon de commande
-et le retourner 
-par courrier à ALADFI édition 16 rue St-Jacques 59000 Lille
-ou par email à infolutherie@gmail.com
+Il est possible de le commander directement en ligne 
+custom: https://docs.google.com/forms/d/e/1FAIpQLSeAl_nj88Q5SDYP5tPeqoAu447wEMZh_cuxOeVMu-aVTzYvmw/viewform
 
 
 
