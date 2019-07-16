@@ -9,7 +9,7 @@ Autres articles et publications
 
 -[The geometric principles of string instrument making in Brescia ](https://lutherie.github.io/resources/Articolo.Denis.pdf)(in "1520-1724 Liutai in Brescia ")
 
--Golden Arches (The Strad)
+-[Golden Arches](https://lutherie.github.io/resources/GoldenArches.pdf (The Strad)
 
 -Luthiers - de la main à la main éd. Actes Sud 2012 
 
