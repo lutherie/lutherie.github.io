@@ -10,4 +10,6 @@ Artisans, théoriciens et curieux se laissent surprendre par une approche théor
 
 Cet ouvrage original a rencontré un succès international, il est disponible dans sa deuxième édition.
 
+Pour commnander l'ouvrage cliquer sur le lien [«bon de commande »](https://lutherie.github.io/beta?page=07-fr+commander+le+livre)
+
 site dédié au traité: www.traitedelutherie.com
