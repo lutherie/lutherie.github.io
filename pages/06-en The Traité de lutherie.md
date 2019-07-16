@@ -6,7 +6,7 @@ The "Traité" sheds a new light on the history of violin making and solves the m
 The reading deeply introduce us into the mysteries of the most iconic forms (like those of Amati and Stradivari). Craftman, theorist and curious are getting caught out by a singular approach steeped in oral unrecognized tradition.
 This original work met an international success.
 
-To order a copy please file the [«order form »](https://docs.google.com/forms/d/e/1FAIpQLSeAl_nj88Q5SDYP5tPeqoAu447wEMZh_cuxOeVMu-aVTzYvmw/viewform)
+To order a copy please file the [«order form »](https://lutherie.github.io/beta?page=07-fr+commander+le+livre)
 
  
 Traité web site : www.traitedelutherie.com
