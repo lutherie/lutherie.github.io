@@ -1,18 +1,12 @@
 ![atelier](https://lutherie.github.io/page10/files/stacks_image_23_1.png)
 
-Le Traité de Lutherie
-édition aladfi 2006
+The Traité de Lutherie
 
-Le "Traité" éclaire l’histoire de la lutherie en levant le mystère de l’origine de la forme du violon.
-Sa lecture nous révèle les secrets des modèles emblématiques créés par les grands luthiers italiens.
-Artisans, théoriciens et curieux se laissent surprendre par une approche théorique singulière pétrie d'une tradition orale méconnue.
-Cet ouvrage original a rencontré un succès international. 
+The "Traité" sheds a new light on the history of violin making and solves the mystery of the origin of the violin's form.
+The reading deeply introduce us into the mysteries of the most iconic forms (like those of Amati and Stradivari). Craftman, theorist and curious are getting caught out by a singular approach steeped in oral unrecognized tradition.
+This original work met an international success.
 
+To order a copy please file the [«order form »](https://docs.google.com/forms/d/e/1FAIpQLSeAl_nj88Q5SDYP5tPeqoAu447wEMZh_cuxOeVMu-aVTzYvmw/viewform)
 
-
-Il est possible de le commander directement en ligne 
-custom: https://docs.google.com/forms/d/e/1FAIpQLSeAl_nj88Q5SDYP5tPeqoAu447wEMZh_cuxOeVMu-aVTzYvmw/viewform
-
-
-
-site du traité: www.traitedelutherie.com
+ 
+Traité web site : www.traitedelutherie.com
