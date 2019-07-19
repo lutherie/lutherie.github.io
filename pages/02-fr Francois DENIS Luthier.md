@@ -1,5 +1,5 @@
-![francois Denis-Luthier](https://lutherie.github.io/dossier-photos-Github/images-site/bassedansatelier.png)
 
+![francois Denis-Luthier](https://lutherie.github.io/dossier-photos-Github/images-site/Moiaveclunettes.png)
 
 Mon atelier est situé à Angers où depuis 1988 je me consacre à la fabrication des instruments du quatuor.
 Ma conception de la lutherie est initialement marquée par une formations scientifique et musicale 
