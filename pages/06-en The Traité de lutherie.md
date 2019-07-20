@@ -1,4 +1,4 @@
-![atelier](https://lutherie.github.io/page10/files/stacks_image_23_1.png)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/Couverturelivretdl.png)
 
 The Traité de Lutherie
 
