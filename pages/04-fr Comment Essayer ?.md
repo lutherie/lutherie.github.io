@@ -1,4 +1,4 @@
-![atelier](https://lutherie.github.io/page13/files/stacks_image_13_1.png)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/ateliergerome.png)
 
 Vous souhaitez essayer un de mes instruments neufs ou anciens, contacter moi directement par téléphone ou email au:
 
