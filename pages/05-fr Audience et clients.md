@@ -1,4 +1,4 @@
-![atelier](https://lutherie.github.io/page3/files/stacks_image_18_1.png)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/têtecellonoiretblanc.png)
 
 Mes instruments sont joués dans de nombreux orchestres autant en France qu'à l’étranger. 
 Appréciés pour leur personnalité, leur sonorité est par ailleurs régulièrement distinguée dans les concours internationaux.

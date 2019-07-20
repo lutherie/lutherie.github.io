@@ -1,4 +1,4 @@
-![atelier](https://lutherie.github.io/page3/files/stacks_image_18_1.png)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/têtecellonoiretblanc.png)
 
 My instruments are played in many orchestras in France (Opera and Orchestra of Paris) and abroad (Germany, Spain, Sweden, United Kingdom, Portugal).
 Appreciated for their personality, their sound is also often distinguished in international competitions.

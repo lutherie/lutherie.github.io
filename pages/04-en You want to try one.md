@@ -1,4 +1,4 @@
-![atelier](https://lutherie.github.io/page13/files/stacks_image_13_1.png)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/ateliergerome.png)
 
 You would like to try one of my instruments, please contact me by phone, email or facebook
 
