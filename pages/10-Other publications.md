@@ -14,7 +14,7 @@ Other articles and publications
 
 -Luthiers - de la main à la main éd. Actes Sud 2012 
 
--[First Principles: How did the pioneers of violin making decide on the instruments'basic form and proportions? François Denis demonstrates the influence of the ancient Greeks] TheStrad August 2019 
+-[First Principles: How did the pioneers of violin making decide on the instruments'basic form and proportions? François Denis demonstrates the influence of the ancient Greeks](https:/lutherie.github.io/resources/First-principles-TheStrad.pdf) TheStrad August 2019 
 
 [La lutherie et le ton pythagoricien](https://lutherie.github.io/resources/articletonPythagoricienfr.pdf) (non publié)
 
