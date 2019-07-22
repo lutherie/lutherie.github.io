@@ -1,5 +1,5 @@
 ![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/altocoignardNetB.png)
-![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/detailouiebrescia-thumb.jpg)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/detailouiebrescia-full.jpg)
 
 Other articles and publications
 
