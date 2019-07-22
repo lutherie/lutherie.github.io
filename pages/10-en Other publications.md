@@ -1,5 +1,5 @@
 ![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/altocoignardNetB.png)
-![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/detailouiebrescia-thumb.jpg)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/detailouiebrescia-full.jpg)
 
 Other articles and publications
 
@@ -14,9 +14,11 @@ Other articles and publications
 
 -Luthiers - de la main à la main éd. Actes Sud 2012 
 
--[First Principles: How did the pioneers of violin making decide on the instruments'basic form and proportions? François Denis demonstrates the influence of the ancient Greeks](https://lutherie.github.io/resources/First-principles-TheStrad.pdf) TheStrad August 2019 
+-[First Principles](https://lutherie.github.io/resources/First-principles-TheStrad.pdf) TheStrad August 2019 
 
 [La lutherie et le ton pythagoricien](https://lutherie.github.io/resources/articletonPythagoricienfr.pdf) (non publié)
+
+[Pyhtagorean tonus and lutherie](https://lutherie.github.io/resources/Pythagoreantonus-and-lutherie.pdf) (non publié)
 
 Articles in collaboration
 

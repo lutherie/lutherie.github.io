@@ -1,4 +1,4 @@
-![atelier](https://lutherie.github.io/page12/files/stacks_image_33_1.png)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/detailouiebrescia-full.jpg)
 
 Autres articles et publications
 
