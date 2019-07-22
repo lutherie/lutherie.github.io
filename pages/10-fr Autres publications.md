@@ -1,3 +1,4 @@
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/altocoignardNetB.png)
 ![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/detailouiebrescia-full.jpg)
 
 Autres articles et publications
