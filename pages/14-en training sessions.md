@@ -1,4 +1,3 @@
-![atelier](htpps://lutherie.github.io/dossier-photos-Github/images-site/altocoignardNetB.png)
 ![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/Brienzlake.png)
 
 Lectures, training sessions and pedagogy feed the research. 
