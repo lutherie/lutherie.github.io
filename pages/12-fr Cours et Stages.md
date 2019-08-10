@@ -1,4 +1,4 @@
-![author](https://lutherie.github.io/page0/files/stacks_image_8_1.png#left)
+![atelier](https://lutherie.github.io/dossier-photos-Github/images-site/Brienzlake.png)
 
 Conférences, stages et pédagogie nourrissent la recherche. 
 
