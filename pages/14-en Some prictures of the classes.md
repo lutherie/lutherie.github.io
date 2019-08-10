@@ -8,25 +8,25 @@
 
 ![Cremona2008-full.jpg](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cremona2008-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Malaga 2008](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Malaga2008-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Markneukirchen 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Markneukirchen2006-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Mittenwald 2005](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2005-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Mittenwald 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2007-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Newark 2012](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Newark2012--full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Pékin 2009](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Pékin2009-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![QueretaroMexico 2012](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/QueretaroMexico2012-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Saint-Martindelondre 2011](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Saint-Martindelondre2011-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![Stuttgart](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Stuttgart-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
+![recette en chinois](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/recetteenchinois-full.jpg#left)
 
 ![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
