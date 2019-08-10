@@ -22,7 +22,7 @@ Cordes sur ciel France 2004
 
 ![Cremona2008-full.jpg](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cremona2008-full.jpg#left)
 
-Cremona2008-full.jpg]
+Cremona 2008
 
 ![Malaga 2008](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Malaga2008-full.jpg#left)
 
