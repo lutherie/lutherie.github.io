@@ -1,6 +1,6 @@
 ![Mittenwald 2005](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2005-full.jpg#left)
 
-[Mittenwald 2005
+Mittenwald 2005
 
 ![Brienz 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Brienz2006-full.jpg#left)
 
