@@ -4,7 +4,7 @@
 
 ![Bruxelles 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Bruxelles2007-full.jpg#left)
 
-![Cordes sur ciel France 2004](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cordes sur ciel France 2004full.jpg#left)
+![Cordes sur ciel France 2004](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cordes-sur-ciel-France-2004full.jpg#left)
 
 ![Cremona2008-full.jpg](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cremona2008-full.jpg#left)
 
