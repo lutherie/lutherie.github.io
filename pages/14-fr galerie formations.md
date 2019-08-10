@@ -22,7 +22,7 @@ Cordes sur ciel France 2004
 
 ![Cremona2008-full.jpg](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cremona2008-full.jpg#left)
 
-Cremona2008-full.jpg]
+Cremona 2008
 
 ![Malaga 2008](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Malaga2008-full.jpg#left)
 
@@ -45,7 +45,7 @@ recette du violon.. c'est du chinois
 ![Stuttgart](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Stuttgart-full.jpg#left)
 
 
-Performance a Stuttgart
+Performance à Stuttgart
 
 
 ![Mittenwald 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2007-full.jpg#left)
