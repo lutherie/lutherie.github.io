@@ -1,6 +1,6 @@
 ![Mittenwald 2005](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2005-full.jpg#left)
 
-[Mittenwald 2005
+Mittenwald 2005
 
 ![Brienz 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Brienz2006-full.jpg#left)
 
@@ -39,13 +39,13 @@ Pékin 2009
 ![recette en chinois](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/recetteenchinois-full.jpg#left)
 
 
-recette du violon.. c'est du chinois
+violin recipe.. that's chinese :)
 
 
 ![Stuttgart](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Stuttgart-full.jpg#left)
 
 
-Performance a Stuttgart
+Performance in Stuttgart
 
 
 ![Mittenwald 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2007-full.jpg#left)
@@ -62,7 +62,7 @@ Newark 2012
 
 ![QueretaroMexico 2012](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/QueretaroMexico2012-full.jpg#left)
 
-QueretaroMexico 2012
+Queretaro Mexico 2012
 
 ![Boston 2014](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Boston2014-full.jpg#left)
 
