@@ -2,38 +2,38 @@
 
 ![Brienz 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Brienz2006-full.jpg#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
 
-![](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/)
+![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
