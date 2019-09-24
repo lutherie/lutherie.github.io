@@ -49,9 +49,7 @@ FRANCE
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
 <script>
-var stripe = Stripe('pk_live_nDnMEpVdsNCRVfAi6gVPU2rk00B57X8hyQ', {
-  betas: ['checkout_beta_4']
-})
+var stripe = Stripe('pk_live_nDnMEpVdsNCRVfAi6gVPU2rk00B57X8hyQ')
 
 function setStripe(id, items) {
   document.getElementById(id).addEventListener('click', function () {
