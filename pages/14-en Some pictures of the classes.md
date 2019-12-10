@@ -10,11 +10,10 @@ Brienz 2006
 
 Markneukirchen 2006
 
-
 ![Bruxelles 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Bruxelles2007-full.jpg#left)
 
-
 Bruxelles 2007
+
 ![Cordes sur ciel France 2004](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cordes-sur-ciel-France-2004full.jpg#left)
 
 Cordes sur ciel France 2004
@@ -26,27 +25,19 @@ Cremona 2008
 
 ![Malaga 2008](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Malaga2008-full.jpg#left)
 
-
 Malaga 2008
-
 
 ![Pékin 2009](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Pékin2009-full.jpg#left)
 
-
 Pékin 2009
-
 
 ![recette en chinois](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/recetteenchinois-full.jpg#left)
 
-
 violin recipe.. that's chinese :)
-
 
 ![Stuttgart](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Stuttgart-full.jpg#left)
 
-
 Performance in Stuttgart
-
 
 ![Mittenwald 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2007-full.jpg#left)
 
@@ -67,7 +58,3 @@ Queretaro Mexico 2012
 ![Boston 2014](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Boston2014-full.jpg#left)
 
 Boston 2014
-
-
-![](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/#left)
-
