@@ -158,7 +158,7 @@ const handleLoading = async (cachedPages = {}) => {
   const res = await queryPages
   res.ok || console.error(Error('Github request failed'))
   const pages = (res.ok ? await res.json() : [])
-    .filter(p => p.type === 'file' && p.name.endsWith('.md'))
+    .filter(p => p.type === 'file' && p.name.endsWith('.md') && p.name !== 'index.md')
     .map(({ sha, name }) => ({ ...parseName(name), sha }))
 
   const work = []
