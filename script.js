@@ -43,7 +43,7 @@ const parseName = src => {
   return {
     index: Number(index),
     locale,
-    title: title.trim().slice(0, -3),
+    title: (title||'').trim().slice(0, -3),
     name,
     search: `?${new URLSearchParams({ page: name })}`,
   }
