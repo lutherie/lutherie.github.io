@@ -13,8 +13,8 @@ Markneukirchen 2006
 
 ![Bruxelles 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Bruxelles2007-full.jpg#left)
 
-
 Bruxelles 2007
+
 ![Cordes sur ciel France 2004](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cordes-sur-ciel-France-2004full.jpg#left)
 
 Cordes sur ciel France 2004
