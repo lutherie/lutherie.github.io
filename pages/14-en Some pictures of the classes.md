@@ -1,4 +1,4 @@
--![Mittenwald 2005](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2005-full.jpg)
+![Mittenwald 2005](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2005-full.jpg)
 
 -Mittenwald 2005
 
