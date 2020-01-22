@@ -1,18 +1,18 @@
 ![Mittenwald 2005](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Mittenwald2005-full.jpg)
 
--Mittenwald 2005
+Mittenwald 2005
 
 ![Brienz 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Brienz2006-full.jpg)
 
--Brienz 2006
+Brienz 2006
 
 -![Markneukirchen 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Markneukirchen2006-full.jpg)
 
--Markneukirchen 2006
+Markneukirchen 2006
 
--![Bruxelles 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Bruxelles2007-full.jpg)
+![Bruxelles 2007](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Bruxelles2007-full.jpg)
 
--Bruxelles 2007
+Bruxelles 2007
 
 ![Cordes sur ciel France 2004](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Cordes-sur-ciel-France-2004full.jpg)
 
