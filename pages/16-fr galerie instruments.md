@@ -1,6 +1,6 @@
 ![table alto 1998](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto4-full.jpg)
 
-table alto 1998
+[table alto 1998](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto4-full.jpg)
 
 
 ![alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
@@ -11,14 +11,13 @@ table alto 1998
 
 ![violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
 
-violoncelle 2014
 
 [violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
 
 
 ![coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
-coin violon d'après le Allard de Del Gesu
+[coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
 
 ![dos de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg)
