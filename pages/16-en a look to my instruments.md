@@ -17,7 +17,7 @@
 
 ![coin violon d'après Del Gesu  "Allard" ](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
-[Violin corner after le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
+[Violin corner after Del Gesu "Allard"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
 
 ![dos de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg)
@@ -54,6 +54,7 @@ full warnish](https://lutherie.github.io/dossier-photos-Github/photo-instruments
 
 
 ![modèle unique](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondaltocoignard-full.jpg)
+
 [Special order](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondaltocoignard-full.jpg)
 
 
