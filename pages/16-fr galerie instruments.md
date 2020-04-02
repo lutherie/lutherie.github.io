@@ -15,6 +15,8 @@ alto "la lionne 2012"
 
 violoncelle 2014
 
+[violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
+
 
 ![coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
