@@ -1,92 +1,124 @@
-![table alto 1998](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto4-full.jpg#down)
-viola to 1998
+![table alto 1998](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto4-full.jpg)
+
+[viola top 1998](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto4-full.jpg)
 
 
-![alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg#down)
-viola "the lioness 2012"
-
-![alto "la lionne" 2012](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêtedelion1-thumb.jpg)[alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg#down)
-viola "the lioness 2012"
+![alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
 
 
-![violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg#down)
-cello 2014
+[alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
 
 
-![coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg#down)
-violon insprired by the Del Gesu Allard 
+![violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
 
 
-![dos de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg#down)
-cello Back
-
-![détail coin alto](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailcoinalto-full.jpg#down)
-viola corner
+[violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
 
 
-![détail table](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouie3-full.jpg#down)
-table detail
+![coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
+
+[coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
 
-![détail ouïe](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouiealto6-full.jpg#down)
-f-holes détail
+![dos de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg)
+
+[dos de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg)
 
 
-![détail ouie violon 2003](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouieviolon5-full.jpg#down)
-f-holes  violon 2003
+
+![détail coin alto](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailcoinalto-full.jpg)
+
+[détail coin alto](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailcoinalto-full.jpg)
 
 
-![fond alto vernis plein](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondalto2-full.jpg#down)
-viola plain warnish
+![détail table](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouie3-full.jpg)
+
+[détail table](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouie3-full.jpg)
 
 
-![modèle unique](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondaltocoignard-full.jpg#down)
- spécial viola form for short hands 
+![détail ouïe](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouiealto6-full.jpg)
+
+[détail ouïe](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouiealto6-full.jpg)
 
 
-![fond violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondviolon1-full.jpg#down)
-violin back 2006
+
+![détail ouïe violon 2003](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouieviolon5-full.jpg)
+
+[détail ouïe violon 2003](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/détailouieviolon5-full.jpg)
 
 
-![fondviolonguarn-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondviolonguarn-full.jpg#down)
-violin back Del Desu style
+![fond alto vernis plein](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondalto2-full.jpg)
+
+[fond alto vernis plein](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondalto2-full.jpg)
 
 
-![ouies violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/ouieviolon5-full.jpg#down)
-f-holes
+
+![modèle unique](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondaltocoignard-full.jpg)
+[modèle unique](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondaltocoignard-full.jpg)
 
 
-![tablealto-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto-full.jpg#down)
-viola table
+
+![fond violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondviolon1-full.jpg)
+
+[Dos de violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondviolon1-full.jpg)
 
 
-![tablealto5-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto5-full.jpg#down)
-viola
+
+![fondviolonguarn-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondviolonguarn-full.jpg)
+
+[Dos de violon d'après Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/fondviolonguarn-full.jpg)
 
 
-![têtealto-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtealto-full.jpg#down)
-viola scroll
+![ouies de violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/ouieviolon5-full.jpg)
+
+[ouies de violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/ouieviolon5-full.jpg)
 
 
-![têtealtocoignard-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtealtocoignard-full.jpg#down)
-viola scoll
 
 
-![têtecello-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtecello-full.jpg#down)
-cello scroll
+![tablealto-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto-full.jpg)
+
+[table d'alto](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto-full.jpg)
 
 
-![têtedelion1-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtedelion1-full.jpg#right)
-lionness viola head
+![tablealto5-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto5-full.jpg)
+
+[table d'alto](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto5-full.jpg)
 
 
-![têtevioledaniel-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtevioledaniel-full.jpg#right)
-copy of a Colichon viole
 
 
-![violedanie1-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedanie1-full.jpg#right)
-copy of a Colichon viole
+![têtealtocoignard-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtealtocoignard-full.jpg)
+
+[tête d'alto dans le style de Brescia](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtealtocoignard-full.jpg)
 
 
-![violedaniel-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedaniel-full.jpg#right)
-copy of a Colichon viole
+
+![têtecello-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtecello-full.jpg)
+
+[tête de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtecello-full.jpg)
+
+
+
+![têtedelion1-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtedelion1-full.jpg)
+
+[tête de lion](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtedelion1-full.jpg)
+
+
+
+
+![têtevioledaniel-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtevioledaniel-full.jpg)
+
+[tête de viole](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtevioledaniel-full.jpg)
+
+
+![viole d'après Colichon.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedanie1-full.jpg)
+
+[viole d'après Colichon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedanie1-full.jpg)
+
+
+
+![violedaniel-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedaniel-full.jpg)
+
+[viole d'après colichon (avec table en 7 parties](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedaniel-full.jpg)
+
