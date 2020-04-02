@@ -1,18 +1,10 @@
 ## Diary
 
-- 9/05 / 19:00
+- Quarantine
 
-### Lecture
+### Lecture (video-live)
 
-> From Palladio to Stradivari. Proportionality in architecture and violin making  
-> *François DENIS*
+>Pandemy in Cremona -  1630 Plague and 2020 Covid
 
 ### Concert
-Followed by a concert by *Emmanuel Tondus*, cellist.
 
-
-Programme to be determined
-
-In collaboration with the Faculté d'architecture *La Cambre Horta / ULB*
-
-https://www.ekho-violins.com/
