@@ -7,13 +7,6 @@ table alto 1998
 
 alto "la lionne 2012"
 
-![Brienz 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Brienz2006-full.jpg)
-
-Brienz 2006
-
-
-
-![alto "la lionne" 2012](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêtedelion1-thumb.jpg)
 
 [alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
 
@@ -96,25 +89,30 @@ têtealto-full.jpg
 
 ![têtealtocoignard-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtealtocoignard-full.jpg)
 
-têtealtocoignard-full.jpg
+tête alto modèle Brescia
 
 
 ![têtecello-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtecello-full.jpg#down)
-têtecello-full.jpg
+
+Tête de violoncelle
 
 
-![têtedelion1-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtedelion1-full.jpg#down)
-têtedelion1-full.jpg
+![têtedelion1-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtedelion1-full.jpg)
+
+Tête de lion
 
 
 ![têtevioledaniel-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtevioledaniel-full.jpg#down)
-têtevioledaniel-full.jpg
+
+Tête de viole
 
 
-![violedanie1-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedanie1-full.jpg#down)
-violedanie1-full.jpg
+![violedanie1-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedanie1-full.jpg)
+
+Viole d'après Colichon
 
 
-![violedaniel-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedaniel-full.jpg#down)
-violedaniel-full.jpg
+![violedaniel-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/violedaniel-full.jpg)
+
+Viole d'après Colichon
   
