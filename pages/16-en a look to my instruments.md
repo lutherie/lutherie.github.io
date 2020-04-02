@@ -3,26 +3,26 @@
 [viola top 1998](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto4-full.jpg)
 
 
-![alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
+![viola 2012 "The lioness"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
 
 
-[alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
+[Viola 2012 "The lioness"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg)
 
 
-![violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
+![Cello 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
 
 
-[violoncelle 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
+[Cello 2014](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/bodycello-full.jpg)
 
 
-![coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
+![coin violon d'après Del Gesu  "Allard" ](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
-[coin violon d'après le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
+[Violin corner after le Allard de Del Gesu](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/coinviolonfull.jpg)
 
 
 ![dos de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg)
 
-[dos de violoncelle](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg)
+[Cello Back](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/doscello-full.jpg)
 
 
 
