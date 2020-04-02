@@ -5,6 +5,10 @@ table alto 1998
 ![alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg#down)
 alto "la lionne 2012"
 
+![Brienz 2006](https://lutherie.github.io/dossier-photos-Github/stages-et-performances/Brienz2006-full.jpg)
+
+Brienz 2006
+
 
 
 ![alto "la lionne" 2012](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêtedelion1-thumb.jpg)[alto "la lionne 2012"](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/altotêteviolon5-full.jpg#down)
