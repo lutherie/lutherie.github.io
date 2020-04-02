@@ -67,24 +67,20 @@ fond violon 2006
 fond de violon d'après del Desu 
 
 
-![ouies violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/ouieviolon5-full.jpg#right)
+![ouies violon](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/ouieviolon5-full.jpg)
 
 détail ouies violon
 
 
 ![tablealto-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto-full.jpg)
 
-tablealto-full.jpg
+Table d'alto
 
 
 ![tablealto5-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/tablealto5-full.jpg)
 
-tablealto5-full.jpg
+Table d'alto
 
-
-![têtealto-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtealto-full.jpg)
-
-têtealto-full.jpg
 
 
 ![têtealtocoignard-full.jpg](https://lutherie.github.io/dossier-photos-Github/photo-instruments-pour-github/têtealtocoignard-full.jpg)
