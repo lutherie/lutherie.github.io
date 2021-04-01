@@ -11,8 +11,8 @@
 </ul>
 
 ### Paiement avec paypal
-  - [Traité de Lutherie + PDF (240€)](https://www.paypal.me/traitedelutherie/230)
-  - [Traité de Lutherie (225€)](https://www.paypal.me/traitedelutherie/215)
+  - [Traité de Lutherie + PDF (240€)](https://www.paypal.me/traitedelutherie/240)
+  - [Traité de Lutherie (225€)](https://www.paypal.me/traitedelutherie/225)
 
 ### Paiement par virement
 
