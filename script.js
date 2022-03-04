@@ -151,6 +151,7 @@ const handleLoading = async (cachedPages = {}) => {
     : `02-${locale} Francois DENIS Luthier`
 
   const page = cachedPages[selectedPage]
+  history.replaceState(null, page.name, page.search)
   displayPage(await (page ? get(page.sha) : getContent(selectedPage)))
 
   console.log('show page', { page })
