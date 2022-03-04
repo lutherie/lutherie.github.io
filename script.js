@@ -130,15 +130,15 @@ const loadContent = () => {
 
   return get('pages')
     .then(handleLoading)
-    .then(console.log)
-    .catch(console.error)
 }
 
 const handleLoading = async (cachedPages = {}) => {
   // init pages from cache
   const { searchParams } = new URL(location)
-  const selectedPage = searchParams.get('page')
-  const locale = selectedPage ?  selectedPage.split(/[0-9]{2}-([a-z]{2})/)[1] : 'en'
+  const urlPage = searchParams.get('page')
+  const locale = (urlPage && urlPage.split(/[0-9]{2}-([a-z]{2})/)[1])
+    || localStorage.locale
+    || (navigator.languages.includes('fr') ? 'fr' : 'en')
 
   const localeButton = document.getElementById(locale)
   localeButton.disabled = true
@@ -146,14 +146,14 @@ const handleLoading = async (cachedPages = {}) => {
 
   CACHED_PAGES = cachedPages
   generateMenu(Object.values(cachedPages))
-  if (selectedPage) {
-    const page = cachedPages[selectedPage]
-    displayPage(await (page ? get(page.sha) : getContent(selectedPage)))
+  const selectedPage = urlPage in cachedPages
+    ? urlPage
+    : `02-${locale} Francois DENIS Luthier`
 
-    console.log('show page', { page })
-  } else {
-    console.log('no selectedPage')
-  }
+  const page = cachedPages[selectedPage]
+  displayPage(await (page ? get(page.sha) : getContent(selectedPage)))
+
+  console.log('show page', { page })
 
   const res = await queryPages
   res.ok || console.error(Error('Github request failed'))
@@ -199,13 +199,21 @@ const handleLoading = async (cachedPages = {}) => {
 
 // Load initial content
 loadContent()
+  .catch(console.error)
 
 const enButton = document.getElementById('en')
 const frButton = document.getElementById('fr')
 enButton.alt = frButton
 frButton.alt = enButton
-enButton.addEventListener('click', e => switchLocale('en'))
-frButton.addEventListener('click', e => switchLocale('fr'))
+enButton.addEventListener('click', e => {
+  localStorage.locale = 'en'
+  switchLocale('en')
+})
+
+frButton.addEventListener('click', e => {
+  localStorage.locale = 'fr'
+  switchLocale('fr')
+})
 
 const locales = { fr: frButton, en: enButton }
 const altLocales = { en: frButton, fr: enButton }

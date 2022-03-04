@@ -1,0 +1,19 @@
+{
+  "name": "Francois Denis - Luthier",
+  "short_name": "lutherie.github.io",
+  "start_url": "https://lutherie.github.io",
+  "display": "standalone",
+  "theme_color": "#c31515",
+  "background_color": "#dad6cd",
+  "description": "Francois Denis, Luthier violin, author of the Traite de Lutherie",
+  "version": "29.01.2022",
+  "categories": ["business", "music"],
+  "orientation": "any",
+  "screenshots" : [
+    {
+      "src": "/preview.jpg",
+      "sizes": "1200x628",
+      "type": "image/jpg"
+    }
+  ]
+}
